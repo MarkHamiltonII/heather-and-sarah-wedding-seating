@@ -19,11 +19,11 @@ function App() {
           Welcome to Heather and Sarah's Wedding
         </h1>
         <p>
-          Find your seat below
+          Find your table below
         </p>
       </header>
       <div className='search-bar'>
-        <input type='text' className='search-query' placeholder='Find your name' onChange={e => setQuery(e.target.value)} />
+        <input type='text' className='search-query' placeholder='Search by name' onChange={e => setQuery(e.target.value)} />
         <button className='search-button'>
           <FaSearch />
         </button>
