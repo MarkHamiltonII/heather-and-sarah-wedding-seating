@@ -1,3 +1,16 @@
+:root {
+  --main-color: #77815C;
+}
+
+
+
+@font-face {
+  font-family: 'Croissant';
+  src: url('font/CroissantOne-Regular.ttf');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lumanosimo&display=swap');
+
 .App {
   text-align: center;
   display: flex;
@@ -6,7 +19,7 @@
 }
 
 .App-header {
-  background-color: #de5d83;
+  background-color: var(--main-color);
   min-height: 25vh;
   display: flex;
   flex-direction: column;
@@ -14,6 +27,10 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.App-header h1 {
+  font-family: 'Croissant';
 }
 
 .App-link {
@@ -33,7 +50,7 @@
 }
 
 .search {
-  border: 3px solid #de5d83;
+  border: 3px solid var(--main-color);
   color: grey;
   padding: 5px;
   height: 20px;
@@ -44,8 +61,8 @@
 .search-button {
   width: 40px;
   height: 36px;
-  border: 1px solid #de5d83;
-  background: #de5d83;
+  border: 1px solid var(--main-color);
+  background: var(--main-color);
   text-align: center;
   color: white;
   border-radius: 0 5px 5px 0;
@@ -62,6 +79,7 @@
   flex-direction: column;
   justify-content: center;
   justify-items: center;
+  gap: 1rem;
 }
 
 .seating-labels {
@@ -73,4 +91,8 @@
   display: flex;
   justify-content: space-between;
   gap: 4rem;
+}
+
+.person p {
+  margin: 0;
 }

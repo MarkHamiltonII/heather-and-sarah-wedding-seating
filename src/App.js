@@ -18,7 +18,7 @@ function App() {
 
   if (tableNumber) {
     filteredList = seatingList.filter(item => {
-      return item.Table.toLowerCase().includes(tableNumber.toLowerCase())
+      return item.Table.toLowerCase() === tableNumber.toLowerCase()
     })
   }
 
