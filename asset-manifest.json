@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/heather-and-sarah-wedding-seating/static/css/main.7fff2efa.css",
-    "main.js": "/heather-and-sarah-wedding-seating/static/js/main.2a418267.js",
+    "main.css": "/heather-and-sarah-wedding-seating/static/css/main.15ebba6a.css",
+    "main.js": "/heather-and-sarah-wedding-seating/static/js/main.e44165c7.js",
+    "static/media/CroissantOne-Regular.ttf": "/heather-and-sarah-wedding-seating/static/media/CroissantOne-Regular.cc59469cb665a8ce188a.ttf",
     "index.html": "/heather-and-sarah-wedding-seating/index.html",
-    "main.7fff2efa.css.map": "/heather-and-sarah-wedding-seating/static/css/main.7fff2efa.css.map",
-    "main.2a418267.js.map": "/heather-and-sarah-wedding-seating/static/js/main.2a418267.js.map"
+    "main.15ebba6a.css.map": "/heather-and-sarah-wedding-seating/static/css/main.15ebba6a.css.map",
+    "main.e44165c7.js.map": "/heather-and-sarah-wedding-seating/static/js/main.e44165c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fff2efa.css",
-    "static/js/main.2a418267.js"
+    "static/css/main.15ebba6a.css",
+    "static/js/main.e44165c7.js"
   ]
 }
