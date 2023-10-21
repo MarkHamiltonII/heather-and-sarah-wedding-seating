@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-df = pd.read_excel('src\data\Seating_Chart.xlsx', index_col=None)
+df = pd.read_excel('src\data\Heather-And-Sarah-Seating-Chart.xlsx', index_col=None)
 
 seating_chart = []
 
