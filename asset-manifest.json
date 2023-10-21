@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/heather-and-sarah-wedding-seating/static/css/main.15ebba6a.css",
+    "main.css": "/heather-and-sarah-wedding-seating/static/css/main.652b1547.css",
     "main.js": "/heather-and-sarah-wedding-seating/static/js/main.488641d5.js",
     "static/media/CroissantOne-Regular.ttf": "/heather-and-sarah-wedding-seating/static/media/CroissantOne-Regular.cc59469cb665a8ce188a.ttf",
     "index.html": "/heather-and-sarah-wedding-seating/index.html",
-    "main.15ebba6a.css.map": "/heather-and-sarah-wedding-seating/static/css/main.15ebba6a.css.map",
+    "main.652b1547.css.map": "/heather-and-sarah-wedding-seating/static/css/main.652b1547.css.map",
     "main.488641d5.js.map": "/heather-and-sarah-wedding-seating/static/js/main.488641d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.15ebba6a.css",
+    "static/css/main.652b1547.css",
     "static/js/main.488641d5.js"
   ]
 }
